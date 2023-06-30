@@ -21,7 +21,7 @@ It is for the members of AI Learners Discord server run by JF Koh.
 If you'd like to participate, send me ( @ellacharmed ) either via Discord DM or other group chats where I'm a part of or email me ( same username at gmail.com ), with the following information.
 
 Please provide your 
-- discord nickname
+- discord / telegram nickname
 - github username
 - email address <br/>
 in your DM/email, so I can add you and sent Calendar invites when we organize a vid-call via Google Meet or Zoom.
